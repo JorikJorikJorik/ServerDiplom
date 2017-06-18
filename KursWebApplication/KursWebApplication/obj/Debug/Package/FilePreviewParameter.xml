@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="kurs" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\jorik\\documents\\visual\ studio\ 2015\\Projects\\KursWebApplication\\KursWebApplication\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\jorik\\documents\\visual\ studio\ 2015\\Projects\\KursWebApplication\\KursWebApplication\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-KursWebApplication-20160405105852.mdf;Initial Catalog=aspnet-KursWebApplication-20160405105852;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jorik\\documents\\visual\ studio\ 2015\\Projects\\KursWebApplication\\KursWebApplication\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="KursWebApplication.Models.MyDBModels+DB-Web.config Connection String" description="" value="KursWebApplication.Models.MyDBModels+DB_ConnectionString" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jorik\\documents\\visual\ studio\ 2015\\Projects\\KursWebApplication\\KursWebApplication\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='KursWebApplication.Models.MyDBModels+DB']/@connectionString" />
+  </parameter>
+  <parameter name="PgSql-Web.config Connection String" description="" value="Server=localhost;Database=postgres;User Id=postgres;Password=1258jora" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jorik\\documents\\visual\ studio\ 2015\\Projects\\KursWebApplication\\KursWebApplication\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PgSql']/@connectionString" />
+  </parameter>
+</parameters>

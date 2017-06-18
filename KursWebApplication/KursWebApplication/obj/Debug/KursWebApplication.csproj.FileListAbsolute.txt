@@ -1,0 +1,202 @@
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\ApplicationInsights.config
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\roslyn\csc.exe
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\roslyn\vbc.exe
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\roslyn\VBCSCompiler.exe
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\KursWebApplication.dll.config
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\KursWebApplication.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\KursWebApplication.pdb
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Antlr3.Runtime.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\EntityFramework.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\EntityFramework.SqlServer.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.AI.Web.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.ApplicationInsights.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.Google.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Newtonsoft.Json.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Owin.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Net.Http.Formatting.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.Helpers.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.Http.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.Http.Owin.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.Http.WebHost.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.Mvc.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.Optimization.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.Razor.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.WebPages.Deployment.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.WebPages.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.WebPages.Razor.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\WebGrease.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.AI.Web.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.ApplicationInsights.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Newtonsoft.Json.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Net.Http.Formatting.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.Helpers.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.Http.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.Http.WebHost.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.Mvc.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.Optimization.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.Razor.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.WebPages.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.WebPages.Deployment.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.WebPages.Razor.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Antlr3.Runtime.pdb
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\EntityFramework.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\EntityFramework.SqlServer.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.Google.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\System.Web.Http.Owin.xml
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\obj\Debug\KursWebApplication.csprojResolveAssemblyReference.cache
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\obj\Debug\KursWebApplication.dll
+c:\users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\obj\Debug\KursWebApplication.pdb
+C:\Users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Mono.Security.dll
+C:\Users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Npgsql.dll
+C:\Users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Npgsql.EntityFramework.dll
+C:\Users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Npgsql.xml
+C:\Users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\Npgsql.EntityFramework.xml
+C:\Users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\de\Npgsql.resources.dll
+C:\Users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\es\Npgsql.resources.dll
+C:\Users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\fi\Npgsql.resources.dll
+C:\Users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\fr\Npgsql.resources.dll
+C:\Users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\ja\Npgsql.resources.dll
+C:\Users\jorik\documents\visual studio 2015\Projects\KursWebApplication\KursWebApplication\bin\zh-CN\Npgsql.resources.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\ApplicationInsights.config
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\roslyn\csc.exe
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\roslyn\vbc.exe
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\KursWebApplication.dll.config
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\KursWebApplication.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\KursWebApplication.pdb
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Antlr3.Runtime.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\EntityFramework.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Mono.Security.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Npgsql.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Npgsql.EntityFramework.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Owin.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.Helpers.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.Http.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.Http.Owin.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.Mvc.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.Optimization.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.Razor.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.WebPages.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\WebGrease.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Npgsql.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Npgsql.EntityFramework.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.Helpers.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.Http.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.Mvc.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.Optimization.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.Razor.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.WebPages.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\EntityFramework.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\System.Web.Http.Owin.xml
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\de\Npgsql.resources.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\es\Npgsql.resources.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\fi\Npgsql.resources.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\fr\Npgsql.resources.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\ja\Npgsql.resources.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\bin\zh-CN\Npgsql.resources.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\obj\Debug\KursWebApplication.dll
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\obj\Debug\KursWebApplication.pdb
+C:\Users\jorik\Source\Repos\Kurs3\KursWebApplication\KursWebApplication\obj\Debug\KursWebApplication.csprojResolveAssemblyReference.cache
